@@ -7,13 +7,13 @@
             "email": "officialandysusanto@gmail.com"
         }
     ],
+    "type":"laravel-module",
     "extra": {
         "laravel": {
             "providers": [],
             "aliases": {
             }
-        },
-        "module-dir":"userinstansi"
+        }
     },
     "autoload": {
         "psr-4": {
