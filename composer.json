@@ -1,5 +1,5 @@
 {
-    "name": "andy-susanto/userinstansi",
+    "name": "andy-susanto/userinstansi-module",
     "description": "",
     "authors": [
         {
@@ -11,9 +11,9 @@
         "laravel": {
             "providers": [],
             "aliases": {
-
             }
-        }
+        },
+        "module-dir":"userinstansi"
     },
     "autoload": {
         "psr-4": {
