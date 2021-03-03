@@ -1,0 +1,13 @@
+{
+    "name": "UserInstansi",
+    "alias": "userinstansi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UserInstansi\\Providers\\UserInstansiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
